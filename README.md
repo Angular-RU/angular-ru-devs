@@ -1,4 +1,4 @@
-# Angular-RU list of starters [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
+# Angular-RU Community Development List [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
 Здесь вы найдете список полезных стартеров от нашего сообщества Angular-RU. Также вы можете принять участие в развитии сообщества, добавляя свои собственные стартеры, а также можете присылать нам pull-request(ы) расширяя существующие и дополняя их.
 
