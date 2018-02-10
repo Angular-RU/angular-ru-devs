@@ -31,3 +31,6 @@
 * [angular-sws-library-starter](https://github.com/Angular-RU/angular-sws-library-starter) - создание и тестирование библиотек Angular
 <br> ![](https://img.shields.io/github/stars/Angular-RU/angular-sws-library-starter.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/angular-sws-library-starter.svg?style=social&logo=github) ![](https://img.shields.io/github/issues/Angular-RU/angular-sws-library-starter.svg?style=social&logo=github) <br>
 
+**Список npm-пакетов**:
+
+* [@angular-ru/ngx-i18n-combine](https://github.com/Angular-RU/ngx-i18n-combine) - Объединение файлов i18n (json, ts, js, jsx, tsx) <br> ![](https://img.shields.io/github/stars/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) ![](https://img.shields.io/github/issues/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) <br>
