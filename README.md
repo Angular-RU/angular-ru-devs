@@ -34,6 +34,9 @@
 * [angular-ngrx-starter](https://github.com/Angular-RU/angular-ngrx-starter) - стартер Redux в Angular
 <br> ![](https://img.shields.io/github/stars/Angular-RU/angular-ngrx-starter.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/angular-ngrx-starter.svg?style=social&logo=github) ![](https://img.shields.io/github/issues/Angular-RU/angular-ngrx-starter.svg?style=social&logo=github) <br>
 
+* [angular-e2e-cucumber-quick-start](https://github.com/Angular-RU/angular-e2e-cucumber-quick-start) - стартер для написания e2e BDD тестов 
+<br> ![](https://img.shields.io/github/stars/Angular-RU/angular-e2e-cucumber-quick-start.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/angular-e2e-cucumber-quick-start.svg?style=social&logo=github) ![](https://img.shields.io/github/issues/Angular-RU/angular-e2e-cucumber-quick-start.svg?style=social&logo=github) <br>
+
 
 **Список npm-пакетов**:
 
