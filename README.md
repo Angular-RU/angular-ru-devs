@@ -5,6 +5,13 @@
 ##### Current Angular version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
+
+**Список npm-пакетов сообщества**:
+
+* [@angular-ru/ngx-i18n-combine](https://github.com/Angular-RU/ngx-i18n-combine) - Объединение файлов i18n (json, ts, js, jsx, tsx) <br> ![](https://img.shields.io/github/stars/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) ![](https://img.shields.io/github/issues/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) 
+
+* [ngw](https://github.com/Angular-RU/ngw) - удобная модификация webpack из коробки без `ng eject` <br> ![](https://img.shields.io/github/stars/Angular-RU/ngw.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/ngw.svg?style=social&logo=github) ![](https://img.shields.io/github/issues/Angular-RU/ngw.svg?style=social&logo=github) <br>
+
 **Список стартеров**:
 
 * [webpack-angular-starter](https://github.com/Angular-RU/webpack-angular-starter) - простое окружение на основе Webpack + Angular
@@ -36,8 +43,3 @@
 
 * [angular-e2e-cucumber-quick-start](https://github.com/Angular-RU/angular-e2e-cucumber-quick-start) - стартер для написания e2e BDD тестов 
 <br> ![](https://img.shields.io/github/stars/Angular-RU/angular-e2e-cucumber-quick-start.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/angular-e2e-cucumber-quick-start.svg?style=social&logo=github) ![](https://img.shields.io/github/issues/Angular-RU/angular-e2e-cucumber-quick-start.svg?style=social&logo=github) <br>
-
-
-**Список npm-пакетов**:
-
-* [@angular-ru/ngx-i18n-combine](https://github.com/Angular-RU/ngx-i18n-combine) - Объединение файлов i18n (json, ts, js, jsx, tsx) <br> ![](https://img.shields.io/github/stars/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) ![](https://img.shields.io/github/issues/Angular-RU/ngx-i18n-combine.svg?style=social&logo=github) <br>
