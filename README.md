@@ -14,8 +14,6 @@
 
 **Список стартеров**:
 
-https://github.com/Angular-RU/change-detection-tree
-
 * [change-detection-tree](https://github.com/Angular-RU/change-detection-tree) - наглядное руководство по обнаружению изменений
 <br> ![](https://img.shields.io/github/stars/Angular-RU/change-detection-tree.svg?style=social&logo=github) ![](https://img.shields.io/github/forks/Angular-RU/change-detection-tree.svg?style=social&logo=github)![](https://img.shields.io/github/issues/Angular-RU/change-detection-tree.svg?style=social&logo=github) <br>
 
